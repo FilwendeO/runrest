@@ -1,0 +1,14 @@
+img:hover
+{
+  width:200px;
+   box-shadow:12px 12px 12px rgb(127,127,127);
+}
+.MyLabel
+{
+  background-color:lightblue;
+  text-decoration:underline;
+}
+label
+{
+margin-left:50px;
+}

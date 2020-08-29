@@ -1,0 +1,34 @@
+.container
+{
+ background-color:white;
+   width:1200px;   
+}
+body
+{
+   background-image:url("../images/fond4.png");
+}
+.sec
+{
+margin-top:50px;
+}
+.sect2
+{
+margin-top:50px;
+}
+.sect4
+{
+
+margin-top:80px;
+width:1000px;
+}
+
+.form :hover
+{
+  color:red;
+}
+.Links
+{
+   margin-left:150px;
+   margin-bottom:80px;
+}
+

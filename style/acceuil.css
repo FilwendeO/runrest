@@ -1,0 +1,150 @@
+.container
+{
+
+
+background-color:rgb(215,215,215);
+}
+.car
+{
+border:solid 1px red;
+}
+.superSpan
+{
+background-color:aqua;
+padding:20px;
+padding-left:100px;
+
+border-bottom-right-radius:60px;
+border-top-left-radius:60px;
+position:relative;
+top:20px;
+margin-bottom:20px;
+}
+.acceuil h2
+{
+ color:red;
+ text-decoration:underline;
+ text-align:center;
+}
+.acceuil h4
+{
+color:green;
+text-align:center;
+}
+.btn
+{
+background-color:white;
+
+opacity:80%;
+margin-top:10px;
+color:blue;
+height:45px;
+font-size:2em;
+padding:5px;
+}
+
+.btn:hover
+{
+ background-color:green;
+ opacity:100%;
+ color:white;
+ text-shadow:10px 10px 10px black;
+ box-shadow:10px 10px 10px black;
+ border:2px solid white;
+}
+.active
+{
+background-color:orange;
+opacity:100%;
+color:white;
+text-shadow:5px 5px 5px black;
+ box-shadow:5px 5px 5px black;
+ text-decoration:underline;
+ 
+}
+.pan2
+{
+background-color:orange;
+padding:20px;
+padding-left:100px;
+width:1140px;
+border-bottom-left-radius:60px;
+border-bottom-right-radius:60px;
+margin-bottom:20px;
+}
+.active2
+{
+background-color:white;
+opacity:100%;
+color:orange;
+ box-shadow:5px 5px 5px black;
+ text-decoration:underline;
+}
+.acceuil
+{
+ background-color:white;
+ opacity:80%;
+ margin-left:40px;
+ margin-top:40px;
+ border-radius:30px;
+ padding:20px;
+}
+.exp
+{
+margin-top:20px;
+background-color:white;
+opacity:100%;
+border-radius:30px;
+}
+.explication h2
+{
+color:red;
+text-shadow:10px 10px 10px rgb(125,125,125);
+
+
+text-align:center;
+text-decoration:underline;
+}
+
+.superLigne2
+{
+border:solid 1px blue;
+border-top-left-radius:60px;
+border-top-right-radius:60px;
+padding:10px;
+} 
+.carteI
+{
+padding:33px;
+margin-left:200px;
+border:solid 2px blue;
+color:white;
+height:400px;
+border-bottom-right-radius:100px;
+border-top-left-radius:100px;
+box-shadow:10px 10px 10px blue;
+
+}
+.refCarte
+{
+Color:blue;
+text-decoration:underline;
+}
+footer
+{
+margin-top:200px;
+}
+.foto
+{
+margin-left:600px;
+top:230px;
+
+}
+.info
+{
+border:1px solid blue;
+}
+.msgCarte
+{
+border:solid 1px blue;
+}
